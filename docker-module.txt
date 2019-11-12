@@ -4,3 +4,9 @@ bash-5.0#
 bash-5.0#
 Hello, World!
 Hello, World!
+REPOSITORY                TAG                 IMAGE ID            CREATED             SIZE
+gentux/apline-bash        emilyrenee          1c9c70e90efb        18 minutes ago      9.68MB
+<none>                    <none>              100b801ceaa7        19 minutes ago      9.68MB
+<none>                    <none>              d6f551481dd6        24 minutes ago      9.68MB
+alpine                    latest              965ea09ff2eb        3 weeks ago         5.55MB
+dockercloud/hello-world   latest              0b898a637c19        2 years ago         30.8MB
